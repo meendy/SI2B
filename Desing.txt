@@ -1,0 +1,27 @@
+Design
+ 
+- Será um App Mobile com sistema operacional Android e Ios.
+
+- O banco de dados utilizado será o Parse
+
+- Para efetuar o cadastro será possível cadastrar a biometria e reconhecimento facial de modo a permitir um acesso mais ágil.
+
+- Ficara à critério do cliente realizar o login com e-mail e senha ou só com a biometria.
+
+- O aplicativo terá a pesquisa via "comando de voz" caso o passageiro não possa digitar.
+
+- Terá um canal direto via WhatsApp para dúvidas sobre viagens ou problemas técnicos com  o app.
+
+- A forma de pagamento será: Crédito/Débito/Picpay ou dinheiro.
+
+- Deverá ter um sistema de GPS
+
+- Deverá ter um sistema de verificação de condições climáticas
+
+- Deverá ter um local para o cliente colocar o destino desejado e horário da viagem.
+
+
+
+
+
+

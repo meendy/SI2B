@@ -1,0 +1,34 @@
+Análise 
+
+- O passageiro irá solicitar a viagem através do APP 
+
+- A viagem poderá ser solicitada de imediato ou agendada caso o passegeiro prefira.
+
+- O tempo para verificação da conta será de até 30 minutos.
+
+- O cliente só conseguirá o primeiro acesso no sistema após a verificação
+
+- Limite de preço de 10 dólares por pessoa por viagem.
+
+- Caso o cliente queira cadastrar um cartão de crédito ele deverá ser verificado em até 15 minutos.
+
+- O cliente deverá informar o destino e horário da viagem, em seguida será feito uma analise de como está a previsão do tempo. Se as condições climáticas forem favoráveis deverá ser
+exibido para a pessoa no App a mensagem "Viagem Autorizada, prossiga para a próxima tela" onde ele irá confirmar o destino e horário.
+
+- Caso previsão do tempo não permita realizar a viagem ele receberá uma mensagem: "Devido as condições climáticas, não será possível realizar a viagem para o destino informado na data de hoje". Gostaria de  tenta
+outro destino?" Se o cliente desejar alterar o destino o aplicativo fará uma nova busca, caso contrário irá voltar à tela inicial.
+
+- A previsão pra ele receber o retorno do app se a viagem foi autorizada ou não será de até 20 minutos. 
+
+- Caso o cliente apresente algum problema técnico no aplicativo a previsão para o primeiro retorno do nosso
+suporte é de até 2 horas e para solução do problema de até 5 dias.
+
+- Ao gerar uma viagem será gerado um número criptografado que ficará gravado em nosso banco de dados com todas informações da viagem.
+
+- Por questões de segurança o cliente poderá compartilhar sua localização através do app com algum contato da sua lista telefônica via whats app ou sms.
+
+- o app terá cadastro para motorista, uma aba específica " sou passageiro " outra "sou motorista "
+ 
+- quando o motorista se cadastrar irá abrir um formulário direto pra ele preencher em seguida terá que encaminhar toda documentação do automóvel, tudo em um e-mail específico . 
+
+- Após analise o prazo para darmos se ele foi autorizado a ser motorista no nosso app ou não é de uma semana.

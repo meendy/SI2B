@@ -1,0 +1,9 @@
+Testes
+
+1. Teste da caixa branca: Avaliar os componentes do programa/sistema, código fonte, lógica e estrutura. Analisar o fluxo de dados, condição, ciclos etc.
+2. Teste de caixa preta: Verificar aspectos externos, requisitos funcionais. Testar se um grupo de entrada de dados resultou nas saídas pretendidas. Verificar se o software cumpriu o que se esperava dele.
+3. Teste de regressão: Realizar testes a cada versão do software a cada incremento nova a ele.
+4. Teste de unidade: Testar cada unidade menor do software para verificar de funcionam como o esperado.
+5. Teste de carga: Avaliar os limites de uso do software como o quanto suporta de informação, tráfego etc.
+6. Teste de usabilidade: Teste feito por um pequeno grupo de usuário para verificar se o software satisfaz as suas necessidades. Verifica-se as dificuldades que o usuário encontra ao utilizar o software, recebe também os feedbacks e impressões dos usuários.
+7. Teste de stress: Teste onde o software fica em limite de potência e funcionamento, com objetivo de avaliar em qual ponto ele deixa de funcionar adequadamente.  

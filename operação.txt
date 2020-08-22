@@ -1,0 +1,14 @@
+Operação:
+
+Para o desenvolvimento do software será necessário uma equipe composta por:
+
+1 Gestor 
+1 Analista de sistemas
+1 Arquiteto de software 
+5-10 desenvolvedores front-end e back-end.
+1 desing UI/UX
+2 Testatadores de software
+2 DBA
+
+
+
